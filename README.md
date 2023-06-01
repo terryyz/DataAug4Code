@@ -1,4 +1,4 @@
-# Data Augmentation Techniques for Source Code Models
+# Data Augmentation Approaches for Source Code Models
 
 
 If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
