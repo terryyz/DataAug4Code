@@ -1,7 +1,7 @@
 # Data Augmentation Approaches for Source Code Models
 
 
-If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
+If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/terryyz/DataAug4Code/blob/main/rules.md) and send a pull request.
 
 We group the papers by [code authorship attribution](#code-authorship-attribution), [clone detection](#clone-detection), [defect detection](#defect-detection), [code summarization](#code-summarization), [code search](#code-search), [code completion](#code-completion), [code translation](#code-translation), [code question answering](#code-question-answering), [problem classification](#problem-classification), [method name prediction](#method-name-prediction), and [type prediction](#type-prediction).
 
