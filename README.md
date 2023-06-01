@@ -5,9 +5,16 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 
 We group the papers by [code authorship attribution](#code-authorship-attribution), [clone detection](#clone-detection), [defect detection](#defect-detection), [code summarization](#code-summarization), [code search](#code-search), [code completion](#code-completion), [code translation](#code-translation), [code question answering](#code-question-answering), [problem classification](#problem-classification), [method name prediction](#method-name-prediction), and [type prediction](#type-prediction).
 
-This repository is based on our paper, ["Data Augmentation Approaches for Source Code Models: A Survey"](https://arxiv.org/abs/). You can cite it as follows:
+This repository is based on our paper, ["Data Augmentation Approaches for Source Code Models: A Survey"](https://arxiv.org/abs/2305.19915). You can cite it as follows:
 ```
-Coming soon
+@misc{zhuo2023data,
+      title={Data Augmentation Approaches for Source Code Models: A Survey}, 
+      author={Terry Yue Zhuo and Zhou Yang and Zhensu Sun and Yufei Wang and Li Li and Xiaoning Du and Zhenchang Xing and David Lo},
+      year={2023},
+      eprint={2305.19915},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 Authors: <a href="terryyz.github.io">Terry Yue Zhuo</a>,
 			  <a href="https://yangzhou6666.github.io/">Zhou Yang</a>,
