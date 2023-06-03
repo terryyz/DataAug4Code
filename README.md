@@ -143,6 +143,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | -- | --- |
 | Adversarial Examples for Models of Code ([OOPSLA '20](https://dl.acm.org/doi/10.1145/3428230)) | Code2vec |
 | A search-based testing framework for deep neural networks of source code embedding ([ICST '21](https://www.computer.org/csdl/proceedings-article/icst/2021/683600a036/1tRP9PPnyj6)) | paper-specific |
+| On the Generalizability of Neural Program Models with respect to Semantic-Preserving Program Transformations ([IST '21](https://doi.org/10.1016/j.infsof.2021.106552)) | Code2Seq |
 | Data Augmentation by Program Transformation ([JSS '22](https://www.sciencedirect.com/science/article/pii/S0164121222000541)) | Code2vec |
 
 ### Type Prediction
