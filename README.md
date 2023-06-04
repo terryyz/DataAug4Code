@@ -118,6 +118,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Exploring Data Augmentation for Code Generation Tasks ([EACL '23](https://aclanthology.org/2023.findings-eacl.114/)) | CodeTrans (CodeXGLUE) |
 | Summarize and Generate to Back-translate: Unsupervised Translation of Programming Languages ([EACL '23](https://aclanthology.org/2023.eacl-main.112/)) | Transcoder Data |
 | ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning ([ICSE '23](https://arxiv.org/abs/2301.09072))| CodeTrans (CodeXGLUE) |
+| Code Translation with Compiler Representations ([ICLR '23](https://openreview.net/forum?id=XomEU3eNeSQ))| Transcoder Data |
 
 ### Code Question Answering
 | Paper | Datasets | 
