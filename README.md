@@ -66,7 +66,6 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Boosting Source Code Learning with Data Augmentation: An Empirical Study ([ArXiv '23](https://arxiv.org/abs/2303.06808))| Refactory, CodRep1 |
 | MIXCODE: Enhancing Code Classification by Mixup-Based Data Augmentation ([SANER '23](https://www.computer.org/csdl/proceedings-article/saner/2023/527800a379/1Nc0QvHneMg))| Refactory, CodRep1 |
 | ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning ([ICSE '23](https://arxiv.org/abs/2301.09072))| Devign |
-| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Summarization
 | Paper | Datasets | 
@@ -82,6 +81,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Adversarial robustness of deep code comment generation ([TOSEM '22](https://dl.acm.org/doi/10.1145/3501256)) |  CCSD (paper-specific) |
 | Do Not Have Enough Data? An Easy Data Augmentation for Code Summarization ([PAAP '22](https://ieeexplore.ieee.org/document/10010698)) | --- |
 | Semantic robustness of models of source code ([SANER '22](https://ieeexplore.ieee.org/document/9825895)) | Python-150K, Code2Seq Data |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 | CLAWSAT: Towards Both Robust and Accurate Code Models ([SANER '23](https://arxiv.org/abs/2211.11711)) | --- |
 | Exploring Data Augmentation for Code Generation Tasks ([EACL '23](https://aclanthology.org/2023.findings-eacl.114/)) | CodeSearchNet (CodeXGLUE) |
 | Bash Comment Generation Via Data Augmentation and Semantic-Aware Codebert ([ArXiv '23](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385791)) | BASHEXPLANER Data |
@@ -96,10 +96,10 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Exploring Representation-Level Augmentation for Code Search ([EMNLP '22](https://aclanthology.org/2022.emnlp-main.327/)) | CodeSearchNet |
 | Cross-Modal Contrastive Learning for Code Search ([ICSME '22](https://ieeexplore.ieee.org/document/9978195/)) | AdvTest, CoSQA |
 | Bridging pre-trained models and downstream tasks for source code understanding ([ICSE '22](https://dl.acm.org/doi/abs/10.1145/3510003.3510062)) | CodeSearchNet  |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 | ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning ([ICSE '23](https://arxiv.org/abs/2301.09072)) | AdvTest, WebQueryTest |
 | CoCoSoDa: Effective Contrastive Learning for Code Search ([ICSE '23](https://arxiv.org/abs/2204.03293)) | CodeSearchNet |
 | Contrastive Learning with Keyword-based Data Augmentation for Code Search and Code Question Answering ([EACL '23](https://aclanthology.org/2023.eacl-main.262/)) | WebQueryTest |
-| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Completion
 | Paper | Datasets | 
@@ -109,10 +109,10 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | ReACC: A retrieval-augmented code completion framework ([ACL '22](https://aclanthology.org/2022.acl-long.431/)) | PY150 (CodeXGLUE), GithHub Java (CodeXGLUE) |
 | Test-Driven Multi-Task Learning with Functionally Equivalent Code Transformation for Neural Code Generation ([ASE '22](https://dl.acm.org/doi/abs/10.1145/3551349.3559549)) | MBPP |
 | How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective ([ArXiv '22](https://arxiv.org/abs/2211.15844)) | refined CONCODE, refined PyTorrent |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 | ReCode: Robustness Evaluation of Code Generation Models ([ACL '23](https://arxiv.org/abs/2212.10264)) | HumanEval, MBPP |
 | CLAWSAT: Towards Both Robust and Accurate Code Models ([SANER '23](https://arxiv.org/abs/2211.11711)) | --- |
 | Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning ([ICSE '23](https://people.ece.ubc.ca/amesbah/resources/papers/cedar-icse23.pdf)) | ATLAS, TFIX |
-| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Translation
 | Paper | Datasets | 
