@@ -66,7 +66,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Boosting Source Code Learning with Data Augmentation: An Empirical Study ([ArXiv '23](https://arxiv.org/abs/2303.06808))| Refactory, CodRep1 |
 | MIXCODE: Enhancing Code Classification by Mixup-Based Data Augmentation ([SANER '23](https://www.computer.org/csdl/proceedings-article/saner/2023/527800a379/1Nc0QvHneMg))| Refactory, CodRep1 |
 | ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning ([ICSE '23](https://arxiv.org/abs/2301.09072))| Devign |
-
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Summarization
 | Paper | Datasets | 
@@ -99,6 +99,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning ([ICSE '23](https://arxiv.org/abs/2301.09072)) | AdvTest, WebQueryTest |
 | CoCoSoDa: Effective Contrastive Learning for Code Search ([ICSE '23](https://arxiv.org/abs/2204.03293)) | CodeSearchNet |
 | Contrastive Learning with Keyword-based Data Augmentation for Code Search and Code Question Answering ([EACL '23](https://aclanthology.org/2023.eacl-main.262/)) | WebQueryTest |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Completion
 | Paper | Datasets | 
@@ -111,6 +112,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | ReCode: Robustness Evaluation of Code Generation Models ([ACL '23](https://arxiv.org/abs/2212.10264)) | HumanEval, MBPP |
 | CLAWSAT: Towards Both Robust and Accurate Code Models ([SANER '23](https://arxiv.org/abs/2211.11711)) | --- |
 | Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning ([ICSE '23](https://people.ece.ubc.ca/amesbah/resources/papers/cedar-icse23.pdf)) | ATLAS, TFIX |
+| A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities ([ArXiv '22](https://arxiv.org/abs/2207.04285)) | CodeSearchNet (Python, Java) |
 
 ### Code Translation
 | Paper | Datasets | 
