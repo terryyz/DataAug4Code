@@ -57,6 +57,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 ### Defect Detection
 | Paper | Datasets | 
 | -- | --- |
+| Adversarial Examples for Models of Code ([OOPSLA '20](https://dl.acm.org/doi/10.1145/3428230)) | VarMisuse |
 | Self-Supervised Bug Detection and Repair ([NeurIPS '21](https://openreview.net/forum?id=zOngaSKrElL))| RANDOMBUGS, PYPIBUGS |
 | Semantic-Preserving Adversarial Code Comprehension ([COLING '22](https://aclanthology.org/2022.coling-1.267))| Defects4J |
 | Path-sensitive code embedding via contrastive learning for software vulnerability detection ([ISSTA '22](https://dl.acm.org/doi/abs/10.1145/3533767.3534371))| D2A, Fan, Devign |
