@@ -4,7 +4,7 @@ Format your paper as the following:
 
 | Paper |  Dataset |
 | -- | -- | 
-| Best Data Augmentation Technique [(ACL '27)](https://github.com/terryyz/DataAug4Code/) [code](https://github.com/terryyz/DataAug4Code/) |  CodeXGLUE |
+| Best Data Augmentation Technique [(ACL '27)](https://github.com/terryyz/DataAug4Code/) |  CodeXGLUE |
 
 Specifically:
 
