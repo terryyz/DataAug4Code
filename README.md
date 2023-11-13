@@ -17,14 +17,14 @@ This repository is based on our paper, [&#34;Data Augmentation Approaches for So
 }
 ```
 
-Authors: `<a href="terryyz.github.io">`Terry Yue Zhuo`</a>`,
-			  `<a href="https://yangzhou6666.github.io/">`Zhou Yang`</a>`,
-			  `<a href="https://v587su.github.io/">`Zhensu Sun`</a>`,
-			  `<a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ&hl=en">`Yufei Wang`</a>`,
-			  `<a href="http://lilicoding.github.io/">`Li Li`</a>`,
-              `<a href="https://xiaoningdu.github.io/">`Xiaoning Du`</a>`,
-			  `<a href="https://scholar.google.com/citations?user=0vCxuH4AAAAJ&hl=en">`Zhenchang Xing`</a>`,
-			  `<a href="http://www.mysmu.edu/faculty/davidlo/">`David Lo`</a>`
+Authors: <a href="terryyz.github.io">Terry Yue Zhuo</a>,
+			  <a href="https://yangzhou6666.github.io/">Zhou Yang</a>,
+			  <a href="https://v587su.github.io/">Zhensu Sun</a>,
+			  <a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ&hl=en">Yufei Wang</a>,
+			  <a href="http://lilicoding.github.io/">Li Li</a>,
+              <a href="https://xiaoningdu.github.io/">Xiaoning Du</a>,
+			  <a href="https://scholar.google.com/citations?user=0vCxuH4AAAAJ&hl=en">Zhenchang Xing</a>,
+			  <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
 
 Note: WIP. More papers will be added from our survey paper to this repo soon.
 Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue here.
