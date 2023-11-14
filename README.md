@@ -17,7 +17,7 @@ This repository is based on our paper, [Source Code Data Augmentation for Deep L
 }
 ```
 
-Authors: <a href="terryyz.github.io">Terry Yue Zhuo</a>,
+Authors: <a href="https://terryyz.github.io">Terry Yue Zhuo</a>,
 			  <a href="https://yangzhou6666.github.io/">Zhou Yang</a>,
 			  <a href="https://v587su.github.io/">Zhensu Sun</a>,
 			  <a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ&hl=en">Yufei Wang</a>,
