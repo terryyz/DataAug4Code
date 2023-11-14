@@ -7,12 +7,12 @@ We group the papers by [code authorship attribution](#code-authorship-attributio
 This repository is based on our paper, [Source Code Data Augmentation for Deep Learning: A Survey](https://ArXiv.org/abs/2305.19915). You can cite it as follows:
 
 ```
-@misc{zhuo2023data,
-      title={Data Augmentation Approaches for Source Code Models: A Survey}, 
+@misc{zhuo2023source,
+      title={Source Code Data Augmentation for Deep Learning: A Survey}, 
       author={Terry Yue Zhuo and Zhou Yang and Zhensu Sun and Yufei Wang and Li Li and Xiaoning Du and Zhenchang Xing and David Lo},
       year={2023},
       eprint={2305.19915},
-      archivePrefix={ArXiv},
+      archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
 ```
