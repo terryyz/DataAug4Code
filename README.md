@@ -84,6 +84,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Multi-target Backdoor Attacks for Code Pre-trained Models [ACL'23](https://aclanthology.org/2023.acl-long.399/)                                                           | Devign. Bug2Fix                                        |
 | InferFix: End-to-End Program Repair with LLMs over Retrieval-Augmented Prompts [ArXiv'23](https://ArXiv.org/abs/2303.07263)                                               | InferredBugs                                           |
 | RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair [FSE'23](https://ArXiv.org/abs/2303.07263)                                         | TFix, Bug2Fix, Defects4J                               |
+| Too Few Bug Reports? Exploring Data Augmentation for Improved Changeset-based Bug Localization [ArXiv'23](https://arxiv.org/abs/2305.16430)                               | Locus data                                             |
 
 ### Code Summarization
 
