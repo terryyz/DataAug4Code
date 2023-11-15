@@ -108,6 +108,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | READSUM: Retrieval-Augmented Adaptive Transformer for Source Code Summarization ([Access'23](https://ieeexplore.ieee.org/document/10113620))                                                   | PCSD                         |
 | Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization ([ArXiv'23](https://ArXiv.org/abs/2305.11074))                                                                 | PCSD, CCSD, DeepCom          |
 | Two Birds with One Stone: Boosting Code Generation and Code Search via a Generative Adversarial Network ([OOPSLA'23](https://dl.acm.org/doi/10.1145/3622815))                                  | CodeSearchNet (Python, Java) |
+| Better Language Models of Code through Self-Improvement ([ACL'23](https://aclanthology.org/2023.findings-acl.823))                                                                             | CodeSearchNet                |
 
 ### Code Search
 
@@ -149,6 +150,7 @@ Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue her
 | Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases ([ASE'23](https://ArXiv.org/abs/2308.09313))                                            | paper-specific                              |
 | APICom: Automatic API Completion via Prompt Learning and Adversarial Training-based Data Augmentation ([Internetware'23](https://dl.acm.org/doi/10.1145/3609437.3609450))  | paper-specific                              |
 | Test-Driven Multi-Task Learning with Functionally Equivalent Code Transformation for Neural Code Generation ([ASE'22](https://dl.acm.org/doi/abs/10.1145/3551349.3559549)) | MBPP                                        |
+| Better Language Models of Code through Self-Improvement ([ACL'23](https://aclanthology.org/2023.findings-acl.823))                                                         | CONCODE                                     |
 
 ### Code Translation
 
