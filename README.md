@@ -4,31 +4,6 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 
 We group the papers by [code authorship attribution](#code-authorship-attribution), [clone detection](#clone-detection), [defect detection and repair](#defect-detection-and-repair), [code summarization](#code-summarization), [code search](#code-search), [code completion](#code-completion), [code translation](#code-translation), [code question answering](#code-question-answering), [problem classification](#problem-classification), [method name prediction](#method-name-prediction), and [type prediction](#type-prediction).
 
-This repository is based on our paper, [Source Code Data Augmentation for Deep Learning: A Survey](https://ArXiv.org/abs/2305.19915). You can cite it as follows:
-
-```
-@article{zhuo2023source,
-      title={Source Code Data Augmentation for Deep Learning: A Survey}, 
-      author={Terry Yue Zhuo and Zhou Yang and Zhensu Sun and Yufei Wang and Li Li and Xiaoning Du and Zhenchang Xing and David Lo},
-      year={2023},
-      eprint={2305.19915},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-Authors: <a href="https://terryyz.github.io">Terry Yue Zhuo</a>,
-			  <a href="https://yangzhou6666.github.io/">Zhou Yang</a>,
-			  <a href="https://v587su.github.io/">Zhensu Sun</a>,
-			  <a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ&hl=en">Yufei Wang</a>,
-			  <a href="http://lilicoding.github.io/">Li Li</a>,
-              <a href="https://xiaoningdu.github.io/">Xiaoning Du</a>,
-			  <a href="https://scholar.google.com/citations?user=0vCxuH4AAAAJ&hl=en">Zhenchang Xing</a>,
-			  <a href="http://www.mysmu.edu/faculty/davidlo/">David Lo</a>
-
-Note: WIP. More papers will be added from our survey paper to this repo soon.
-Inquiries should be directed to terry.zhuo@monash.edu or by opening an issue here.
-
 ### Code Authorship Attribution
 
 | Paper                                                                                                                                                        | Evaluation Datasets |
