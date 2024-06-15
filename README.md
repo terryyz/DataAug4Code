@@ -1,4 +1,4 @@
-# Data Augmentation Approaches for Source Code Models
+# Source Code Data Augmentation for Deep Learning: A Survey
 
 If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/terryyz/DataAug4Code/blob/main/rules.md) and send a pull request.
 
